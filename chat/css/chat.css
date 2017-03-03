@@ -1,0 +1,27 @@
+.panel-body.messages{
+	height: 300px;
+	overflow-y: scroll;
+}
+
+.panel-body.messages > div{
+	padding: 5px;
+	clear: both;
+}
+
+.panel-body.messages > div > div{
+	float: left;
+}
+
+
+.panel-body.messages > div > div.c0{
+	width: 150px;
+}
+
+.panel-body.messages > div > div.c1{
+	padding-right: 20px;
+	font-weight: bold;
+}
+
+form.login{
+	width: 300px;
+}
