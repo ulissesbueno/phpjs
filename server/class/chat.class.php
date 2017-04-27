@@ -1,5 +1,7 @@
 <?php
 
+chmod('')
+
 class MyDB extends SQLite3
 {
     function __construct( $basename )

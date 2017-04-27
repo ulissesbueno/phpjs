@@ -14,7 +14,7 @@
 		//exit;
 	}
 
-	$root = "/";
+	$root = "/phpjs/server";
 	// Define variaveis
 	$success = false;
 	$message = '';

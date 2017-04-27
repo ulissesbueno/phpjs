@@ -1,6 +1,6 @@
 var $PHP = function( phpClass ) { 
 
-	this.server = ( server ? server : '' );
+	this.server = '../server';
 	this.class = phpClass;
 	this.params = "";
 	this.loaded = '';
